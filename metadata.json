@@ -1,0 +1,7 @@
+{
+  "name": "AI Smart Study Assistant",
+  "description": "An AI-powered assistant to help students summarize materials, generate quizzes, and prepare for exams.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
